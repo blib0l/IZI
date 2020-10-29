@@ -12,3 +12,17 @@ E:\open source PRJ\IZI\IZI\IZI\obj\Debug\IZI.Properties.Resources.resources
 E:\open source PRJ\IZI\IZI\IZI\obj\Debug\IZI.csproj.GenerateResource.Cache
 E:\open source PRJ\IZI\IZI\IZI\obj\Debug\IZI.exe
 E:\open source PRJ\IZI\IZI\IZI\obj\Debug\IZI.pdb
+C:\Users\AKelt\Downloads\IZI-main\IZI-main\IZI\IZI\bin\Debug\IZI.exe.config
+C:\Users\AKelt\Downloads\IZI-main\IZI-main\IZI\IZI\obj\Debug\IZI.exe
+C:\Users\AKelt\Downloads\IZI-main\IZI-main\IZI\IZI\obj\Debug\IZI.pdb
+C:\Users\AKelt\Downloads\IZI-main\IZI-main\IZI\IZI\bin\Debug\IZI.exe
+C:\Users\AKelt\Downloads\IZI-main\IZI-main\IZI\IZI\bin\Debug\IZI.pdb
+C:\Users\AKelt\Downloads\IZI-main\IZI-main\IZI\IZI\obj\Debug\IZI.csprojResolveAssemblyReference.cache
+C:\Users\AKelt\Downloads\IZI-main\IZI-main\IZI\IZI\obj\Debug\MainWindow.g.cs
+C:\Users\AKelt\Downloads\IZI-main\IZI-main\IZI\IZI\obj\Debug\App.g.cs
+C:\Users\AKelt\Downloads\IZI-main\IZI-main\IZI\IZI\obj\Debug\IZI_MarkupCompile.cache
+C:\Users\AKelt\Downloads\IZI-main\IZI-main\IZI\IZI\obj\Debug\IZI_MarkupCompile.lref
+C:\Users\AKelt\Downloads\IZI-main\IZI-main\IZI\IZI\obj\Debug\MainWindow.baml
+C:\Users\AKelt\Downloads\IZI-main\IZI-main\IZI\IZI\obj\Debug\IZI.g.resources
+C:\Users\AKelt\Downloads\IZI-main\IZI-main\IZI\IZI\obj\Debug\IZI.Properties.Resources.resources
+C:\Users\AKelt\Downloads\IZI-main\IZI-main\IZI\IZI\obj\Debug\IZI.csproj.GenerateResource.Cache
