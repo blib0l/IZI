@@ -1,0 +1,13 @@
+E:\open source PRJ\IZI\IZI\IZI\bin\Release\IZI.exe.config
+E:\open source PRJ\IZI\IZI\IZI\bin\Release\IZI.exe
+E:\open source PRJ\IZI\IZI\IZI\bin\Release\IZI.pdb
+E:\open source PRJ\IZI\IZI\IZI\obj\Release\MainWindow.g.cs
+E:\open source PRJ\IZI\IZI\IZI\obj\Release\App.g.cs
+E:\open source PRJ\IZI\IZI\IZI\obj\Release\IZI_MarkupCompile.cache
+E:\open source PRJ\IZI\IZI\IZI\obj\Release\IZI_MarkupCompile.lref
+E:\open source PRJ\IZI\IZI\IZI\obj\Release\MainWindow.baml
+E:\open source PRJ\IZI\IZI\IZI\obj\Release\IZI.g.resources
+E:\open source PRJ\IZI\IZI\IZI\obj\Release\IZI.Properties.Resources.resources
+E:\open source PRJ\IZI\IZI\IZI\obj\Release\IZI.csproj.GenerateResource.Cache
+E:\open source PRJ\IZI\IZI\IZI\obj\Release\IZI.exe
+E:\open source PRJ\IZI\IZI\IZI\obj\Release\IZI.pdb
