@@ -29,7 +29,7 @@ namespace IZI
             textBox.Text = myHost;
         }
 
-        private void textBox1_TextChanged(object sender, TextChangedEventArgs e)
+        private void textBox1_TextChanged(object sender, TextChangedEventArgs e)//ip
         {
             System.Net.IPAddress ip = System.Net.Dns.GetHostByName(myHost).AddressList[0];
             textBox1.Text = Convert.ToString(ip);
